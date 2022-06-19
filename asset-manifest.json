@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Tugas-Digitalent-To-Do-List/static/css/main.160e16f6.css",
+    "main.css": "/Tugas-Digitalent-To-Do-List/static/css/main.0fdd48ad.css",
     "main.js": "/Tugas-Digitalent-To-Do-List/static/js/main.46d34e74.js",
     "static/js/787.d3d1451f.chunk.js": "/Tugas-Digitalent-To-Do-List/static/js/787.d3d1451f.chunk.js",
     "index.html": "/Tugas-Digitalent-To-Do-List/index.html",
-    "main.160e16f6.css.map": "/Tugas-Digitalent-To-Do-List/static/css/main.160e16f6.css.map",
+    "main.0fdd48ad.css.map": "/Tugas-Digitalent-To-Do-List/static/css/main.0fdd48ad.css.map",
     "main.46d34e74.js.map": "/Tugas-Digitalent-To-Do-List/static/js/main.46d34e74.js.map",
     "787.d3d1451f.chunk.js.map": "/Tugas-Digitalent-To-Do-List/static/js/787.d3d1451f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.160e16f6.css",
+    "static/css/main.0fdd48ad.css",
     "static/js/main.46d34e74.js"
   ]
 }
