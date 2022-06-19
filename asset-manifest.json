@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Tugas-Digitalent-To-Do-List/static/css/main.12f20caf.css",
-    "main.js": "/Tugas-Digitalent-To-Do-List/static/js/main.06f1423d.js",
+    "main.css": "/Tugas-Digitalent-To-Do-List/static/css/main.fac8799f.css",
+    "main.js": "/Tugas-Digitalent-To-Do-List/static/js/main.07718e2c.js",
     "static/js/787.d3d1451f.chunk.js": "/Tugas-Digitalent-To-Do-List/static/js/787.d3d1451f.chunk.js",
     "index.html": "/Tugas-Digitalent-To-Do-List/index.html",
-    "main.12f20caf.css.map": "/Tugas-Digitalent-To-Do-List/static/css/main.12f20caf.css.map",
-    "main.06f1423d.js.map": "/Tugas-Digitalent-To-Do-List/static/js/main.06f1423d.js.map",
+    "main.fac8799f.css.map": "/Tugas-Digitalent-To-Do-List/static/css/main.fac8799f.css.map",
+    "main.07718e2c.js.map": "/Tugas-Digitalent-To-Do-List/static/js/main.07718e2c.js.map",
     "787.d3d1451f.chunk.js.map": "/Tugas-Digitalent-To-Do-List/static/js/787.d3d1451f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12f20caf.css",
-    "static/js/main.06f1423d.js"
+    "static/css/main.fac8799f.css",
+    "static/js/main.07718e2c.js"
   ]
 }
